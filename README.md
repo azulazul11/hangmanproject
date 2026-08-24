@@ -1,5 +1,4 @@
 # hangmanproject
-Project
 import random
 
 # Lista de palabras para el juego
